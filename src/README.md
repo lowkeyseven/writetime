@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: src\.vuepress\public\assets\images\头像.jpg
+heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: Writetime
 heroFullScreen: true
 tagline: Less is more
