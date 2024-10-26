@@ -2,11 +2,11 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: writetime
+title: 主页
+heroImage: src\.vuepress\public\assets\images\头像.jpg
+heroText: Writetime
 heroFullScreen: true
-tagline: less is more
+tagline: Less is more
 projects:
   - icon: project
     name: 项目名称
