@@ -4,17 +4,17 @@ export default navbar([
   "/",
   "/demo/",
   {
-    text: "博文",
+    text: "文章",
     icon: "pen-to-square",
     prefix: "/posts/",
     children: [
       {
-        text: "苹果",
+        text: "Java",
         icon: "pen-to-square",
         prefix: "apple/",
         children: [
-          { text: "苹果1", icon: "pen-to-square", link: "1" },
-          { text: "苹果2", icon: "pen-to-square", link: "2" },
+          { text: "八股文", icon: "pen-to-square", link: "1" },
+          { text: "面经", icon: "pen-to-square", link: "2" },
           "3",
           "4",
         ],
